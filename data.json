@@ -1,5 +1,5 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
+  "shopName": "Siri coffee",
   "owner": "ชื่อนักศึกษา",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🥃",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -25,7 +25,15 @@
       "name": "ครัวซองต์",
       "price": 60,
       "emoji": "🥐",
-      "available": false,
+      "available": true,
+      "tags": ["เบเกอรี่"]
+    },
+     {
+      "id": 4,
+      "name": "เค้ก",
+      "price": 120,
+      "emoji": "🍰",
+      "available": true,
       "tags": ["เบเกอรี่"]
     }
   ]
